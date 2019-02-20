@@ -34,3 +34,11 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# TeX Paper
+paper/main.bbl
+paper/main.pdf
+paper/main.out
+paper/main.aux
+paper/main.log
+paper/main.blg
