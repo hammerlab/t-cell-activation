@@ -42,3 +42,8 @@ paper/main.out
 paper/main.aux
 paper/main.log
 paper/main.blg
+paper/main.fdb_latexmk
+paper/main.fls
+paper/main.synctex.gz
+
+.DS_Store
