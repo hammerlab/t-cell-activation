@@ -1,0 +1,25 @@
+Sample:	Donor	Bead-to-cell	Day	Count	Live | Freq. of Parent	Live/CCR7+ CD45RO+ | Freq. of Parent	Live/CCR7+ CD45RO- | Freq. of Parent	Live/CCR7- CD45RO+ | Freq. of Parent	Live/CCR7- CD45RO- | Freq. of Parent
+480.fcs	Donor 48	0	Day 3	255039	72.7	15.4	36.8	34.5	13.3
+481.fcs	Donor 48	3	Day 3	276774	54	37.8	7	46.7	8.47
+482.fcs	Donor 48	1	Day 3	237866	53.5	44.6	9.42	37	8.94
+483.fcs	Donor 48	0.3	Day 3	302872	57.3	48.2	14.4	26.9	10.5
+484.fcs	Donor 48	0.1	Day 3	296241	59.4	44.3	24	20.7	11
+485.fcs	Donor 48	0.03	Day 3	69172	45.1	40.2	30.4	16.3	13.1
+490.fcs	Donor 49	0	Day 3	298289	77.6	12.9	46.9	25.6	14.6
+491.fcs	Donor 49	3	Day 3	349186	70.9	34.8	12.3	41.6	11.3
+492.fcs	Donor 49	1	Day 3	352681	70.6	39.1	16.9	32.6	11.4
+493.fcs	Donor 49	0.3	Day 3	332242	71.2	44.6	23.8	22	9.67
+494.fcs	Donor 49	0.1	Day 3	304986	67.7	43.8	35.5	13.3	7.44
+495.fcs	Donor 49	0.03	Day 3	297026	71.6	32	43.7	14.1	10.1
+500.fcs	Donor 50	0	Day 3	387625	77.4	11.9	8.33	34.3	45.5
+501.fcs	Donor 50	3	Day 3	357808	53.8	22.9	4.8	59.7	12.6
+502.fcs	Donor 50	1	Day 3	332479	55.2	31.4	6.74	48.5	13.3
+503.fcs	Donor 50	0.3	Day 3	334084	56.2	40.5	9.86	33	16.6
+504.fcs	Donor 50	0.1	Day 3	355963	60.6	39	11.2	27.5	22.3
+505.fcs	Donor 50	0.03	Day 3	339472	64.4	29	11.7	27.6	31.7
+510.fcs	Donor 51	0	Day 3	301962	85.6	24.7	44	23.3	7.99
+511.fcs	Donor 51	3	Day 3	388268	62.3	40.8	4.14	50	5.08
+512.fcs	Donor 51	1	Day 3	360916	62.7	53.3	5.65	36.6	4.5
+513.fcs	Donor 51	0.3	Day 3	405000	68.5	62	13.4	20.7	3.94
+514.fcs	Donor 51	0.1	Day 3	374546	71.4	56.6	24.6	14.6	4.18
+515.fcs	Donor 51	0.03	Day 3	341184	73.6	47.8	33.9	13.3	5.09
